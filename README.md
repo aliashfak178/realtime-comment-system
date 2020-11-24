@@ -1,10 +1,12 @@
 # realtime-comment-system
-In this tutorial we have built a realtime comment system.
-
-#### Demo: https://realtime-comment-system.herokuapp.com/
-
-## Installation 
-After download or clone run `npm install` to install all the dependancies.
 
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+### real time comment system using express monogodb socket.io for real time communication
+
+
+
+<p align="center">
+
+  <img src="https://github.com/aliashfak178/PICS/blob/main/PICS/cmment.JPG" alt="Coder JPG" width="900" height="500">
+  
+</p>
